@@ -1,0 +1,124 @@
+/* comment */
+
+* {
+    background-image: url("gif-marvel-91.gif");
+    background-size:cover;
+    background-position: center;
+    background-repeat: none;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+.titleA {
+    color: yellow;
+}
+
+h1 {
+    color: yellow;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.cover {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    
+}
+
+#nav {
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+    height: 100px;
+    border-style: double;
+    border-color: yellow;
+    border-width: 20px;
+}
+
+#nav a {
+    color: yellow;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#nav a:hover {
+    color: green;
+}
+
+#navB {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+    height: 50px;
+    border-style: double;
+    border-color: yellow;
+    border-width: 10px;
+}
+
+#navB a {
+    color: yellow;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+#navB a:hover {
+    color: green;
+}
+
+#navC {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: red;
+    height: 50px;
+    border-style: double;
+    border-color: yellow;
+    border-width: 10px;
+}
+
+#navC a {
+    color: yellow;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+#navC a:hover {
+    color: green;
+}
+
+.header {
+    color: green;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    height: 700px;
+    width: 100%;
+}
+
+.image_size {
+    height: 75%;
+    width: 40%;
+} 
+
+p {
+    color: yellow;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
